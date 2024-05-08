@@ -30,8 +30,6 @@ To run the Bookstore E-commerce Website locally, follow these steps:
 ## Deployment
 Project already deployed on vercel. Visit: https://bookery-book-store.vercel.app/
 
-## Video
-Visit: https://www.youtube.com/watch?v=1CpN0sqBlN4
 
 
 
