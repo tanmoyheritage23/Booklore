@@ -2,7 +2,7 @@
 Bookstore E-commerce Website
 
 ## Overview
-This is a MERN stack e-commerce website serves as a virtual bookstore, enabling users to effortlessly browse and purchase books. With an extensive product catalog, advanced search capabilities, and a convenient shopping cart. The website offers a seamless and intuitive interface, ensuring a delightful experience for customers seeking to explore and acquire new books. The data for the website is sourced from a dedicated bookstore API, ensuring up-to-date and accurate book information. API GitHub: https://github.com/Sagarmikeylevi/BookStore-API
+This is a MERN stack e-commerce website serves as a virtual bookstore, enabling users to effortlessly browse and purchase books. With an extensive product catalog, advanced search capabilities, and a convenient shopping cart. The website offers a seamless and intuitive interface, ensuring a delightful experience for customers seeking to explore and acquire new books. The data for the website is sourced from a dedicated bookstore API, ensuring up-to-date and accurate book information. API GitHub: https://bookstore-api-lrop.onrender.com/
 
 ## Key Features
 - Product Catalog: Users can browse through a wide range of books available in the bookstore. Each book is displayed with its title, author, price, and an image.
@@ -18,8 +18,6 @@ React: A JavaScript library for building user interfaces.
 Redux: A state management library for managing application state and data flow.
 Tailwind CSS: A utility-first CSS framework for styling the user interface.
 
-![bookstore](https://github.com/Sagarmikeylevi/BOOKSTORE-FurationTechSolutions/assets/114811573/3dbcb743-caca-459e-87e7-4f0ce9cf1e35)
-
 ## Installation
 To run the Bookstore E-commerce Website locally, follow these steps:
 
@@ -28,8 +26,7 @@ To run the Bookstore E-commerce Website locally, follow these steps:
 - Start the application with npm start.
 
 ## Deployment
-Project already deployed on vercel. Visit: https://bookery-book-store.vercel.app/
-
+Project already deployed on vercel. Visit: 
 
 
 
